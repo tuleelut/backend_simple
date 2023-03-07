@@ -1,6 +1,6 @@
 Start server:
 1. Open command prompt
-2. Go to folder backend_mvc
+2. Go to folder backend_simple
 3. run kommand: npm run start
 4. Wait for message: 
 DB conection successful!
